@@ -1,6 +1,6 @@
 # URL Proxy
 
-A simple url proxy that runs on port 3400 with no CORS restrictions.
+A simple GET url proxy that runs on port 3400 with no CORS restrictions.
 
 ---
 
